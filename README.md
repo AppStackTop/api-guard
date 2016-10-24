@@ -29,7 +29,7 @@ I've been looking for an equivalent for Laravel but did not find any so this is 
 
 ### Laravel 5.1.x to 5.2.x
 
-Run `composer require chrisbjr/api-guard 3.1.*`
+Run `composer require petyots/api-guard`
 
 In your `config/app.php` add `Chrisbjr\ApiGuard\Providers\ApiGuardServiceProvider` to the end of the `providers` array
 

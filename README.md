@@ -17,7 +17,7 @@ I've been looking for an equivalent for Laravel but did not find any so this is 
 
 ## Laravel 5 is finally supported!
 
-**Laravel 5.1.x to 5.2.x: `~3.*`
+**Laravel 5.1.x to 5.3.x: `~3.*`
 
 **Laravel 5.1.x: `~2.*`
 
